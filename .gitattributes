@@ -1,0 +1,3 @@
+models/footer/epochs-500/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/header/epochs-500/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+models/main/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
